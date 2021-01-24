@@ -1,4 +1,4 @@
-# Here is the steps of Exercise 2.
+# Here are the steps of Exercise 2.
 
 # 1.Forked the repository from https://github.com/mfansler/angsd-practice.git
 
