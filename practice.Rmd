@@ -1,7 +1,7 @@
 ---
-title: 'Week 1: Practice Exercise'
-author: "Mervin Fansler"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+title: 'Week 2: Git, GitHub, and RStudio'
+author: "Yuqi Cheng"
+date: "24 January 2021"
 output: 
   html_document:
     toc: true
