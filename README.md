@@ -1,10 +1,11 @@
-This repository provides a practice .Rmd file to knit (render).
+# Here is the steps of Exercise 2.
 
-# Instructions
+# 1.Forked the repository from https://github.com/mfansler/angsd-practice.git
 
-0. (Optional) Fork this repository and start working from your own copy.
-1. Download the .Rmd file. (Optionally, you can [clone the repository](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/cloning-a-repository).)
-2. Open the .Rmd file in RStudio.
-3. Edit the author name.
-4. Click the `knit` button to render the .Rmd to either an HTML or PDF file.
-5. Upload the .Rmd and rendered file in the practice exercise.
+# 2.Cloned a fork of this repository following the instruction on happygitwithr chapter 12.3. (File > New Project > Version Control > Git. In “Repository URL”, paste the URL of your new GitHub repository.)
+
+# 3.Changed the author name and title in practice.Rmd, saved these changes, knit the practice.Rmd. Clicked the check box under "Staged" under the Git tab.
+
+# 4.Commited and pushed updated practice.Rmd and practice.html first.
+
+# 5.Wrote these steps on README.md and push the changed README.md to github.
