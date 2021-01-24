@@ -1,5 +1,5 @@
 ---
-title: 'Week 2: Git, GitHub, and RStudio'
+title: 'Week 2 Exercise: Git, GitHub, and RStudio'
 author: "Yuqi Cheng"
 date: "24 January 2021"
 output: 
